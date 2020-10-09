@@ -35,13 +35,13 @@ Este registro está com dívida.
 Irá armazenar em uma árvore avl pelo código.
 
 Você permitir as seguintes operações: (2 pontos)
-inclusão
-consulta em ordem
-exclusão
+inclusão,
+consulta em ordem,
+exclusão,
 
 Relatórios: (2 pontos)
-Exibir a maior dívida, junto com o cpf
-Exibir as dívidas que estão em atraso.
+Exibir a maior dívida, junto com o cpf,
+,Exibir as dívidas que estão em atraso.
 As dívidas em atraso são aquelas que possuem a data de pagamento superiores a 01/09/2020.
 
 Comparação de datas,exemplos
