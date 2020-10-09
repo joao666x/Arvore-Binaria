@@ -9,7 +9,6 @@ Os alunos podem formar 1 grupo de no máximo 3 pessoas;
 O aluno também pode desenvolver o trabalho individualmente;
 O trabalho deve ser entregue funcionando até dia 09/10/2020 as 23:00
 
-
 Pede-se:
 
 1) Grave um registro com:
@@ -34,15 +33,15 @@ Este registro está com dívida.
 Irá armazenar em uma árvore avl pelo código.
 
 Você permitir as seguintes operações: (2 pontos)
-
 inclusão
 consulta em ordem
 exclusão
-Relatórios: (2 pontos)
 
+Relatórios: (2 pontos)
 Exibir a maior dívida, junto com o cpf
 Exibir as dívidas que estão em atraso.
 As dívidas em atraso são aquelas que possuem a data de pagamento superiores a 01/09/2020.
+
 Comparação de datas
 https://stackoverflow.com/questions/13787702/comparing-2-dates-in-c
 https://www.unix.com/programming/30563-how-compare-dates-c-c.html
